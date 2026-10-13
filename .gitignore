@@ -1,0 +1,6 @@
+data/
+.venv/
+__pycache__/
+scorer_results/
+*.pyc
+assessment/

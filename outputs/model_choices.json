@@ -1,0 +1,17 @@
+{
+  "selection": "September MAE, RMSE tie-break; no October selection",
+  "validation": {
+    "model": "hist_absolute",
+    "target": "rpm",
+    "market": false,
+    "december": false,
+    "parameter": 31
+  },
+  "december": {
+    "model": "hist_absolute",
+    "target": "rpm",
+    "market": false,
+    "december": true,
+    "parameter": 15
+  }
+}
